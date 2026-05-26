@@ -26,3 +26,7 @@
 ## git test first
 ## git switch 
 ## git merge first
+
+## master change second
+## master feature conflict change
+## giff learning
