@@ -27,8 +27,6 @@
 ## git switch 
 ## git merge first
 
-<<<<<<< HEAD
 ## master change second
-=======
 ## master feature conflict change
->>>>>>> feature/conflict
+## giff learning
